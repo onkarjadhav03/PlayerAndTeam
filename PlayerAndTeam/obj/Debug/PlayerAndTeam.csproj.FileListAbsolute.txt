@@ -1,0 +1,7 @@
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe.config
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.pdb
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.AssemblyReference.cache
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.CoreCompileInputs.cache
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.exe
+D:\Simplilearnfinalproj\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.pdb
